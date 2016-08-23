@@ -1,0 +1,6 @@
+{
+  "name": "Files in use - WordPress Plugin",
+  "tagline": "A simple WordPress plugin to show theme's and plugins' files that are currently in use.",
+  "body": "# Files in use - WordPress Plugin\r\n###A simple WordPress plugin to show theme's and plugins' files that are currently in use.\r\n\r\n![Files in use - WordPress Plugin](http://easycaptures.com/fs/uploaded/1036/5778223034.png)\r\n\r\n### Features\r\n* Show theme's template file of current page\r\n* Other files that are used/included by this template files, e.g. `header.php`, `footer.php` etc\r\n* Show plugins' files that are being used by current page\r\n* Each of the files are hyperlinked to the file editor. You can just click and edit any of the files.\r\n* Multiple filter hooks enabled. For example, you can decide either you want to show plugins' files in the list or not.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
