@@ -66,7 +66,7 @@ class CB_Files_In_Use {
 		 */
 		$show_included_files = apply_filters( 'cb_monitor_show_included_files', true );
 		$show_theme_files = apply_filters( 'cb_monitor_show_theme_files', true );
-		$show_plugin_files = apply_filters( 'cb_monitor_show_plugin_files', true );
+		$show_plugin_files = apply_filters( 'cb_monitor_show_plugin_files', false );
 		$menu_label = apply_filters( 'cb_monitor_menu_label', '<strong style="font-weight:bold;color:#fff">Files in use: </strong>' );
 		$menu_meta = apply_filters( 'cb_monitor_menu_meta', array( 'target' => '_blank' ) );
 
