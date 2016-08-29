@@ -7,5 +7,5 @@
 * Show theme's template file of current page
 * Other files that are used/included by this template files, e.g. `header.php`, `footer.php` etc
 * Show plugins' files that are being used by current page
-* Each of the files are hyperlinked to the file editor. You can just click and edit any of the files.
+* Each of the files is hyperlinked to the file editor. You can just click and edit any of the files.
 * Multiple filter hooks enabled. For example, you can decide either you want to show plugins' files in the list or not.
